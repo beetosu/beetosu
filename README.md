@@ -11,4 +11,3 @@
 - 📖 [Goodreads](https://goodreads.com/grubgrub)
 - 📽️ [Letterboxd](https://letterboxd.com/beetosu/)
 - 🎮 [itch.io](https://beetosu.itch.io)
-- 🦆 [Twitter](https://twitter.com/beetosu)
